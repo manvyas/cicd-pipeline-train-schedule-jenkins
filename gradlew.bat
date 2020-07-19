@@ -6,6 +6,7 @@
 @rem ##########################################################################
 
 @rem Set local scope for the variables with windows NT shell
+set JAVA_HOME="C:\Program Files (x86)\Java\jdk1.8.0_51"
 if "%OS%"=="Windows_NT" setlocal
 
 set DIRNAME=%~dp0
